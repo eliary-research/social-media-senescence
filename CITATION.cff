@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+title: 'Social Media Senescence: Why Platforms Age and What Comes After'
+message: >-
+  If you use this paper or its associated data, please cite it as below.
+type: article
+authors:
+  - given-names: Chanmin
+    family-names: Kim
+    affiliation: Eliary Inc.
+    email: chanmin@eliary.com
+abstract: >-
+  Social media platforms follow a remarkably consistent
+  lifecycle: explosive growth, maturation, and eventual
+  decline. We term this pattern social media senescence and
+  argue it is not incidental but structurally inevitable in
+  advertising-funded platforms optimizing for engagement.
+  Drawing on 56 quarters of Meta financial disclosures
+  (2012-2025), 36 quarters of Snap Inc. data, Pew Research
+  Center surveys, and lifecycle records of 15 question-based
+  social platforms, we formalize a senescence model
+  identifying three causal mechanisms: the advertising
+  ratchet, generational displacement, and content inflation.
+  Question-based platforms exhibit the fastest senescence
+  (median active lifespan 2-4 years) due to one-shot
+  interaction structures. We propose structural design
+  principles - accumulating pull architectures, weighted
+  relationship edges, and planned ecosystem succession - as
+  potential senescence-delaying alternatives.
+keywords:
+  - social media
+  - platform lifecycle
+  - senescence
+  - network effects
+  - enshittification
+  - question platforms
+  - generational displacement
+license: CC-BY-4.0
+license-url: 'https://creativecommons.org/licenses/by/4.0/'
+date-released: '2026-05-03'
+version: '0.1-wip'
+url: 'https://github.com/eliary-research/social-media-senescence'
+repository-code: 'https://github.com/eliary-research/social-media-senescence'
+preferred-citation:
+  type: article
+  authors:
+    - given-names: Chanmin
+      family-names: Kim
+      affiliation: Eliary Inc.
+  title: 'Social Media Senescence: Why Platforms Age and What Comes After'
+  year: 2026
+  url: 'https://github.com/eliary-research/social-media-senescence'
+  notes: 'Working paper, Eliary Inc.; arXiv submission in preparation.'
