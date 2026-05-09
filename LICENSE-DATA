@@ -1,0 +1,31 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This license applies to the contents of the `data/` directory.
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material for any purpose,
+    even commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made.
+
+Suggested attribution:
+
+    Kim, C. (2026). Social Media Senescence — Working Paper Data.
+    Eliary Inc. https://github.com/eliary-research/social-media-senescence
+    Licensed under CC BY 4.0.
+
+Full license text:
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+Notes on the data:
+  - All quantitative data is drawn from publicly available sources: SEC filings
+    (Meta Platforms, Inc. and Snap Inc.); Pew Research Center surveys; published
+    industry benchmark reports (Rival IQ, Socialinsider, Edgerank Checker,
+    Social@Ogilvy, Locowise); media reports on platform lifecycle events.
+  - Each data file in `data/` is accompanied by a `_sources.md` document listing
+    the original source URL, retrieval date, and a brief note on any
+    transformations applied.
+  - No proprietary, internal, or platform-private data is included.
