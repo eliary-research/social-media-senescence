@@ -1,0 +1,14 @@
+{
+  "title": "Social Media Senescence: Why Platforms Age and What Comes After",
+  "description": "<p>Social media platforms follow a remarkably consistent lifecycle: explosive growth, maturation, and eventual decline. We term this pattern <strong>social media senescence</strong> and argue it is structurally inevitable in advertising-funded platforms optimizing for engagement. Drawing on 56 quarters of Meta financial disclosures (2012-2025), 36 quarters of Snap Inc. data, Pew Research Center surveys, and lifecycle records of 15 question-based social platforms, we formalize a senescence model identifying three causal mechanisms: the advertising ratchet, generational displacement, and content inflation.</p><p>Working paper, v0.1 (May 2026). 7,000 words, 8 sections, 8 figures, 4 public-data CSVs.</p>",
+  "creators": [{"name": "Kim, Chanmin", "affiliation": "Eliary Inc.", "orcid": ""}],
+  "keywords": ["social media", "platform lifecycle", "senescence", "network effects", "enshittification", "question platforms", "generational displacement"],
+  "license": "CC-BY-4.0",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "publication_date": "2026-05-08",
+  "language": "eng",
+  "communities": [{"identifier": "open-science"}],
+  "access_right": "open",
+  "notes": "Companion repository at github.com/eliary-research/social-media-senescence. arXiv submission to cs.SI in preparation."
+}
