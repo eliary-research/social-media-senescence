@@ -75,6 +75,26 @@ Inline-cite coverage now ~99% on numeric claims. Manuscript is **SSRN-submittabl
 
 ---
 
+## ✅ Round 3 COMPLETED — 2026-05-11 (sprint v0.1.3)
+
+Closes Priority C item 1 (§1.1 4-paragraph compression) and resolves the three uncited-reference flags from Round 2 verification.
+
+**§1.1 Positionality compressed 4 → 2 paragraphs.** The 95-word multi-clause sentence in original Para 2 (the "GitHub public + Zenodo DOI forthcoming + SSRN preprint anticipated 2026-05-08 to 2026-05-12 pending review" scaffold) reduced to a single trailing sentence: *"The GitHub repository (`github.com/eliary-research/social-media-senescence`, public since 2026-05-08) and the SSRN preprint posting together provide public timestamps that freeze the framework prior to any subsequent operational outcomes."* EN5 OSF DOI mention compressed to "anticipated May 2026" (was: "DOI forthcoming with submission 2026-05-09" — date no longer informative). Closing invitation paragraph merged into Para 2.
+
+**Three uncited references INLINE-CITED (no removals):**
+
+| Ref | Location | Anchor |
+|---|---|---|
+| Altman & Taylor (1973, *Social Penetration*) | §6.1 (was line 285, now line 281) | "deepening relationship record — what Altman and Taylor (1973) describe as relationship penetration through reciprocal self-disclosure" |
+| Granovetter (1973, "weak ties") | §6.2 (was line 289, now line 285) | "static, collapsing into a single bit the time and intensity dimensions Granovetter (1973) identified as constitutive of tie strength" |
+| Burke & Kraut (2014, CHI 2014) | §6.2 (was line 291, now line 287) | "exchanged three hundred — a structural correlate of Burke and Kraut's (2014) finding that effortful, directed communication on Facebook measurably increases tie strength over time" |
+
+All three references already in bibliography (lines 355, 363, 379 of v0.1.2 — line numbers shift by –4 after §1.1 compression). Round-2 "ghost references" flag now closed.
+
+**Status after Round 3**: §1.1 down from ~265 words to ~210 words; reference list usage 100% (every entry now cited inline at least once).
+
+---
+
 ## ⚠️ REMAINING ITEMS (do before SSRN submission, ~30min)
 
 ### Priority A — Numeric claims still missing inline citations
