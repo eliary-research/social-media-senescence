@@ -4,7 +4,7 @@
 
 **Status:** Draft v0.1 (~5,600 words, 8 sections). Cleanup in progress, target arXiv `cs.SI` submission by 2026-05-12.
 **Target venue:** ICWSM 2027 (full paper, January 2027 submission).
-**Author:** Chanmin Kim (Eliary Inc.).
+**Author:** Chan Min Park (Eliary Inc.).
 **License:** Paper + data — CC BY 4.0. Code — MIT.
 
 ---
@@ -88,4 +88,4 @@ A `CITATION.cff` file is provided for automated citation parsers.
 
 ## Contact
 
-Chanmin Kim — chanmin@eliary.com
+Chan Min Park — chanmin@eliary.com

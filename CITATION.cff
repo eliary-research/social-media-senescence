@@ -4,8 +4,8 @@ message: >-
   If you use this paper or its associated data, please cite it as below.
 type: article
 authors:
-  - given-names: Chanmin
-    family-names: Kim
+  - given-names: Chan Min
+    family-names: Park
     affiliation: Eliary Inc.
     email: chanmin@eliary.com
 abstract: >-
@@ -43,8 +43,8 @@ repository-code: 'https://github.com/eliary-research/social-media-senescence'
 preferred-citation:
   type: article
   authors:
-    - given-names: Chanmin
-      family-names: Kim
+    - given-names: Chan Min
+      family-names: Park
       affiliation: Eliary Inc.
   title: 'Social Media Senescence: Why Platforms Age and What Comes After'
   year: 2026
