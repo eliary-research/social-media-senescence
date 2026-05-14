@@ -74,8 +74,8 @@ The first author operates Eliary Inc., parent of Currot — a social platform th
 ## Citing this work
 
 ```bibtex
-@misc{kim2026senescence,
-  author       = {Kim, Chanmin},
+@misc{park2026senescence,
+  author       = {Park, Chan Min},
   title        = {Social Media Senescence: Why Platforms Age and What Comes After},
   year         = {2026},
   howpublished = {Working paper, Eliary Inc.},
